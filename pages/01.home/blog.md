@@ -2,7 +2,7 @@
 title: 'Jeff Smith'
 media_order: 'home-bg.jpg, trees.jpg'
 subheading: 'I may not be right, but I''m not lying.'
-header_image: fog.jpg
+header_image: trees-bg.jpg
 menu: Home
 content:
     items: '@self.children'
