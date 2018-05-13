@@ -1,7 +1,7 @@
 ---
 title: About
 subheading: 'What I''ve been up to'
-header_image: about-bg.jpg
+header_image: trees-bg.jpg
 menu: About
 ---
 
