@@ -1,7 +1,7 @@
 ---
 title: Contact
 subheading: 'Have questions? Me too!'
-header_image: contact-bg.jpg
+header_image: trees-bg.jpg
 menu: Contact
 form:
     name: contact-form
