@@ -1,8 +1,8 @@
 ---
 title: 'Jeff Smith'
-media_order: trees-bg.jpg
-subheading: 'I might be wrong, but I''m not lying.'
-header_image: trees-bg.jpg
+media_order: 'home-bg.jpg, trees.jpg'
+subheading: 'I may not be right, but I''m not lying.'
+header_image: fog.jpg
 menu: Home
 content:
     items: '@self.children'

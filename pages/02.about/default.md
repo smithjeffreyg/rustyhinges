@@ -1,12 +1,8 @@
 ---
 title: About
-media_order: trees-bg.jpg
 subheading: 'What I''ve been up to'
-header_image: trees-bg.jpg
+header_image: about-bg.jpg
 menu: About
-process:
-    markdown: true
-    twig: false
 ---
 
 Hi, I'm Jeff Smith. I have have been a lawn mower, fishing and commercial deckhand, delivery truck driver, pastor, musician, professor, psychometrist, grief counselor, and psychotherapist. I hold a Doctorate in Psychology from Northwest University.
