@@ -1,5 +1,5 @@
 ---
-title: 'Rusty Hinges'
+title: Jeff
 media_order: 'home-bg.jpg, trees.jpg'
 subheading: 'I may not be right, but I''m not lying.'
 header_image: trees-bg.jpg
