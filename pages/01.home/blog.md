@@ -1,7 +1,7 @@
 ---
 title: RH
 media_order: 'home-bg.jpg, trees.jpg'
-subheading: 'I may not be right, but I''m not lying.'
+subheading: 'Make a little noise'
 header_image: trees-bg.jpg
 menu: Home
 content:
